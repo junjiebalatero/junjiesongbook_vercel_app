@@ -5,6 +5,8 @@ export default function Page() {
         // <Link href="/">this is dashboard click to go to home </Link>
 
     <pre>{`
+    Money For Nothing
+    
     [Intro] Gm7 / C / Gm7 / Bb C / Gm7 / - / Gm7 / F Gm7
 
     [Verse 1]
